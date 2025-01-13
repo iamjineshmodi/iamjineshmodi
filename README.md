@@ -1,16 +1,16 @@
-## Hi there 👋
+<!-- ## Hi there 👋
 
-<!--
-Here are some ideas to get you started:
+<!-- ![Jinesh's Github Stats](https://github-readme-stats-henna-chi-56.vercel.app/api?username=iamjineshmodi&hide=stars,contribs&show_icons=true&theme=radical&include_all_commits=True&hide_rank=true) -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ![Jinesh's Github Stats](https://github-readme-stats-henna-chi-56.vercel.app/api?username=iamjineshmodi&hide=stars,contribs&show_icons=true&theme=radical&hide_rank=true) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjineshmodi)](https://github.com/anuraghazra/github-readme-stats)
+
+
+|All Time                                                                                  | Year:2025                                                                                  |
+|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| <img height="200" src="https://github-readme-stats-henna-chi-56.vercel.app/api?username=iamjineshmodi&hide=stars,contribs&show_icons=true&theme=radical&include_all_commits=True&hide_rank=true" /> | <img height="200" src="https://github-readme-stats-henna-chi-56.vercel.app/api?username=iamjineshmodi&hide=stars,contribs&show_icons=true&theme=radical&hide_rank=true" /> |
+
+<!-- Top Languages -->
+<div align="center">
+  <img src="https://github-readme-stats-henna-chi-56.vercel.app/api/top-langs/?username=iamjineshmodi&langs_count=6&layout=compact" alt="Top Langs" />
+</div>
