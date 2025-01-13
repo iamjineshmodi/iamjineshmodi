@@ -12,10 +12,10 @@
 
 <!-- ![Top Langs](https://github-readme-stats-henna-chi-56.vercel.app/api/top-langs/?username=iamjineshmodi&langs_count=6&hide_progress=true) -->
 
-![Top Langs](https://github-readme-stats-henna-chi-56.vercel.app/api/top-langs/?username=iamjineshmodi&langs_count=6&layout=compact)
+
+<!-- ![Top Langs](https://github-readme-stats-henna-chi-56.vercel.app/api/top-langs/?username=iamjineshmodi&langs_count=6&layout=compact) -->
 
 
-
-
-
-
+<div align="center">
+  <img src="https://github-readme-stats-henna-chi-56.vercel.app/api/top-langs/?username=iamjineshmodi&langs_count=6&layout=compact" alt="Top Langs" />
+</div>
