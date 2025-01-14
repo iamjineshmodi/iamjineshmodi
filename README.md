@@ -4,7 +4,7 @@
   <li> 💬 If you have any question/feedback, please do not hesitate to reach out to me!            </li>
   <li> 📫 How to reach me: <a href = "mailto:jmodi005@gmail.com">jmodi005@gmail.com </a> and <a href = "https://www.linkedin.com/in/modijinesh/">Linkedin </a> </li>
   <li>🌱 I’m currently learning Web Development and Machine Learning</li>
-  <li> 🚀 <a href = "jineshmodi.vercel.app" target="_blank">Personal Website</a></li>
+  <li> 🚀 <a href = "https://jineshmodi.vercel.app/" target="_blank">Personal Website</a></li>
 </ul>
 
 
