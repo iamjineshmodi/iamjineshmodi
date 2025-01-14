@@ -1,4 +1,18 @@
-<!-- ## Hi there 👋 -->
+## Hi there, I'm Jinesh Modi 👋 &nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=iamjineshmodi&color=brightgreen)
+
+<ul>
+  <li> 💬 If you have any question/feedback, please do not hesitate to reach out to me!            </li>
+  <li> 📫 How to reach me : <a href = "mailto:jmodi005@gmail.com">jmodi005@gmail.com</a> </li>
+  <li>🌱 I’m currently learning Web Development and Machine Learning</li>
+  <li> 🚀 <a href = "jineshmodi.vercel.app" target="_blank">Personal Website</a></li>
+</ul>
+
+
+### Connect with me:
+<a href = "https://www.linkedin.com/in/modijinesh/"><img align = "left" src ="https://user-images.githubusercontent.com/97559428/210749376-7f2fec32-64bb-4ea2-8629-e74b3a9d7c75.svg"/>
+</a>
+
+<br>
 
 |All Time                                                                                  | Year:2025                                                                                  |
 |-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
