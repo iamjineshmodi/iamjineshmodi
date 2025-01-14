@@ -17,9 +17,16 @@
 <br>
 
 
-### Connect with me:
-<a href = "https://www.linkedin.com/in/modijinesh/"><img align = "left" src ="https://user-images.githubusercontent.com/97559428/210749376-7f2fec32-64bb-4ea2-8629-e74b3a9d7c75.svg"/>
-</a>
+
+
+
+
+<div align="center">
+  <img src="https://github-readme-stats-henna-chi-56.vercel.app/api/top-langs/?username=iamjineshmodi&langs_count=6&layout=compact" alt="Top Langs" />
+</div>
+
+
+
 <br>
 ### Languages and Tools:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -38,10 +45,6 @@
 
 
 
-<div align="center">
-  <img src="https://github-readme-stats-henna-chi-56.vercel.app/api/top-langs/?username=iamjineshmodi&langs_count=6&layout=compact" alt="Top Langs" />
-</div>
-
 
 
 
@@ -58,3 +61,9 @@
 <!-- ![Jinesh's Github Stats](https://github-readme-stats-henna-chi-56.vercel.app/api?username=iamjineshmodi&hide=stars,contribs&show_icons=true&theme=radical&include_all_commits=True&hide_rank=true) -->
 
 <!-- ![Jinesh's Github Stats](https://github-readme-stats-henna-chi-56.vercel.app/api?username=iamjineshmodi&hide=stars,contribs&show_icons=true&theme=radical&hide_rank=true)  -->
+
+
+
+<!-- ### Connect with me:
+<a href = "https://www.linkedin.com/in/modijinesh/"><img align = "left" src ="https://user-images.githubusercontent.com/97559428/210749376-7f2fec32-64bb-4ea2-8629-e74b3a9d7c75.svg"/>
+</a> -->
