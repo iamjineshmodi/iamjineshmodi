@@ -2,13 +2,11 @@
 
 <ul>
   <li> 💬 If you have any question/feedback, please do not hesitate to reach out to me!            </li>
-  <li> 📫 How to reach me : <a href = "mailto:jmodi005@gmail.com">jmodi005@gmail.com</a> </li>
+  <li> 📫 How to reach me: <a href = "mailto:jmodi005@gmail.com">jmodi005@gmail.com </a> and <a href = "https://www.linkedin.com/in/modijinesh/">Linkedin </a> </li>
   <li>🌱 I’m currently learning Web Development and Machine Learning</li>
   <li> 🚀 <a href = "jineshmodi.vercel.app" target="_blank">Personal Website</a></li>
 </ul>
 
-
-<br>
 
 |All Time                                                                                  | Year:2025                                                                                  |
 |-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
@@ -17,17 +15,11 @@
 <br>
 
 
-
-
-
-
 <div align="center">
   <img src="https://github-readme-stats-henna-chi-56.vercel.app/api/top-langs/?username=iamjineshmodi&langs_count=6&layout=compact" alt="Top Langs" />
 </div>
 
 
-
-<br>
 ### Languages and Tools:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -42,10 +34,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-
-
-
-
 
 
 
