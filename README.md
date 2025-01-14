@@ -8,10 +8,6 @@
 </ul>
 
 
-### Connect with me:
-<a href = "https://www.linkedin.com/in/modijinesh/"><img align = "left" src ="https://user-images.githubusercontent.com/97559428/210749376-7f2fec32-64bb-4ea2-8629-e74b3a9d7c75.svg"/>
-</a>
-
 <br>
 
 |All Time                                                                                  | Year:2025                                                                                  |
@@ -20,6 +16,11 @@
 
 <br>
 
+
+### Connect with me:
+<a href = "https://www.linkedin.com/in/modijinesh/"><img align = "left" src ="https://user-images.githubusercontent.com/97559428/210749376-7f2fec32-64bb-4ea2-8629-e74b3a9d7c75.svg"/>
+</a>
+<br>
 ### Languages and Tools:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
