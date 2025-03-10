@@ -7,20 +7,22 @@
   <li> 🚀 <a href = "https://jineshmodi.vercel.app/" target="_blank">Personal Website</a></li>
 </ul>
 
-
-|All Time                                                                                  | Year: 2025                                                                                  |
-|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-| <img height="200" src="https://github-readme-stats-henna-chi-56.vercel.app/api?username=iamjineshmodi&hide=stars,contribs&show_icons=true&theme=radical&include_all_commits=True&hide_rank=true" /> | <img height="200" src="https://github-readme-stats-henna-chi-56.vercel.app/api?username=iamjineshmodi&hide=stars,contribs&show_icons=true&theme=radical&hide_rank=true" /> |
-
 <br>
+<!-- | All Time                                                                                                                                                                                            | Year: 2025                                                                                                                                                                 | -->
+<!-- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -->
+<!-- | <img height="200" src="https://github-readme-stats-henna-chi-56.vercel.app/api?username=iamjineshmodi&hide=stars,contribs&show_icons=true&theme=radical&include_all_commits=True&hide_rank=true" /> | <img height="200" src="https://github-readme-stats-henna-chi-56.vercel.app/api?username=iamjineshmodi&hide=stars,contribs&show_icons=true&theme=radical&hide_rank=true" /> | -->
 
+<div align="center">
+<img src="https://github-readme-stats-henna-chi-56.vercel.app/api?username=iamjineshmodi&hide=stars,contribs&show_icons=true&theme=radical&include_all_commits=True&hide_rank=true" />
+</div>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats-henna-chi-56.vercel.app/api/top-langs/?username=iamjineshmodi&langs_count=6&layout=compact" alt="Top Langs" />
 </div>
 
-
 ### Languages and Tools:
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
@@ -35,14 +37,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 
-
-
-
-
-
-
-
-<!-- TO USE for later if table does not look good--> 
+<!-- TO USE for later if table does not look good-->
 
 <!-- ![Jinesh's Github Stats](https://github-readme-stats-henna-chi-56.vercel.app/api?username=iamjineshmodi&hide=stars,contribs&show_icons=true&theme=radical&include_all_commits=True&hide_rank=true) -->
 
