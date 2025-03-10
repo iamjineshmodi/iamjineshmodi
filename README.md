@@ -13,7 +13,6 @@
 | <img height="200" src="https://github-readme-stats-henna-chi-56.vercel.app/api?username=iamjineshmodi&hide=stars,contribs&show_icons=true&theme=radical&include_all_commits=True&hide_rank=true" /> | <img height="200" src="https://github-readme-stats-henna-chi-56.vercel.app/api?username=iamjineshmodi&hide=stars,contribs&show_icons=true&theme=radical&hide_rank=true" /> | -->
 
 <div align="center">
-![Jinesh's Github Stats]
 <img src="https://github-readme-stats-henna-chi-56.vercel.app/api?username=iamjineshmodi&hide=stars,contribs&show_icons=true&theme=radical&include_all_commits=True&hide_rank=true" />
 </div>
 
