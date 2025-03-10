@@ -13,6 +13,7 @@
 | <img height="200" src="https://github-readme-stats-henna-chi-56.vercel.app/api?username=iamjineshmodi&hide=stars,contribs&show_icons=true&theme=radical&include_all_commits=True&hide_rank=true" /> | <img height="200" src="https://github-readme-stats-henna-chi-56.vercel.app/api?username=iamjineshmodi&hide=stars,contribs&show_icons=true&theme=radical&hide_rank=true" /> | -->
 
 <div align="center">
+![Jinesh's Github Stats]
 <img src="https://github-readme-stats-henna-chi-56.vercel.app/api?username=iamjineshmodi&hide=stars,contribs&show_icons=true&theme=radical&include_all_commits=True&hide_rank=true" />
 </div>
 
@@ -38,6 +39,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 
+<!--
 ## Pull Request Guidelines
 
 We aim to follow the following standards for PRs
@@ -51,7 +53,7 @@ We aim to follow the following standards for PRs
 7. refactor: A code change that neither fixes a bug nor adds a feature
 8. style: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
 9. test: Adding missing tests or correcting existing tests
-10. chore: edits to files that aren't src, build, or ci files
+10. chore: edits to files that aren't src, build, or ci files -->
 
 <!-- TO USE for later if table does not look good-->
 
